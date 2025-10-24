@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Draven4Keeps/mi-pagina/static/css/main.3b7dfd07.css",
+    "main.js": "/Draven4Keeps/mi-pagina/static/js/main.9a09f58b.js",
+    "static/js/453.eb75bac2.chunk.js": "/Draven4Keeps/mi-pagina/static/js/453.eb75bac2.chunk.js",
+    "index.html": "/Draven4Keeps/mi-pagina/index.html",
+    "main.3b7dfd07.css.map": "/Draven4Keeps/mi-pagina/static/css/main.3b7dfd07.css.map",
+    "main.9a09f58b.js.map": "/Draven4Keeps/mi-pagina/static/js/main.9a09f58b.js.map",
+    "453.eb75bac2.chunk.js.map": "/Draven4Keeps/mi-pagina/static/js/453.eb75bac2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b7dfd07.css",
+    "static/js/main.9a09f58b.js"
+  ]
+}
